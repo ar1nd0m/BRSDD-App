@@ -52,7 +52,7 @@ TensorFlow Lite.
 - **Course Instructor:** G M Sakhawat Hossain, Assistant Professor — gmsakhawat@rmstu.ac.bd
 - **Dataset:** BRSDD — Bangladeshi Road Sign Detection Dataset
 
-## Download Link
+## App release
 
 - [download](https://github.com/ar1nd0m/BRSDD-App/raw/main/app/build/outputs/apk/debug/app-debug.apk)
 
