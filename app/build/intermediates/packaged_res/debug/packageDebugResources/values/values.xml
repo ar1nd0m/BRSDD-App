@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="brsdd_amber">#F2A900</color>
+    <color name="brsdd_green">#1B5E3C</color>
+    <color name="brsdd_green_dark">#0D2E1D</color>
+    <color name="brsdd_ink">#0E1512</color>
+    <string name="app_name">BRSDD Road Sign Detector</string>
+    <style name="Theme.BRSDD" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/brsdd_green_dark</item>
+        <item name="android:windowBackground">@color/brsdd_ink</item>
+    </style>
+</resources>

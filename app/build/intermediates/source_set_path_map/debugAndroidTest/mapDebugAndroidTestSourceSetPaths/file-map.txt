@@ -1,0 +1,5 @@
+com.rmstu.brsdd.test.app-core-1.6.1-0 /home/arindam/.gradle/caches/transforms-4/e238063b2685689a021b0e65e01ca199/transformed/core-1.6.1/res
+com.rmstu.brsdd.test.app-androidTest-1 /home/arindam/Downloads/BRSDDApp/app/build/generated/res/resValues/androidTest/debug
+com.rmstu.brsdd.test.app-mergeDebugAndroidTestResources-2 /home/arindam/Downloads/BRSDDApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.rmstu.brsdd.test.app-mergeDebugAndroidTestResources-3 /home/arindam/Downloads/BRSDDApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.rmstu.brsdd.test.app-debugAndroidTest-4 /home/arindam/Downloads/BRSDDApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

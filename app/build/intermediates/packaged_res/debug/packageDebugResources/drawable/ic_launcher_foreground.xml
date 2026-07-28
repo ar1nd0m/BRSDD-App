@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Amber warning triangle -->
+    <path
+        android:fillColor="#F2A900"
+        android:pathData="M54,24 L82,74 L26,74 Z" />
+    <!-- Inner dark triangle border -->
+    <path
+        android:fillColor="#0D2E1D"
+        android:pathData="M54,33 L74,68 L34,68 Z" />
+    <!-- Detection box corners (evokes bounding-box detection UI) -->
+    <path
+        android:fillColor="#F2A900"
+        android:pathData="M40,78 L40,86 L48,86 L48,83 L43,83 L43,78 Z" />
+    <path
+        android:fillColor="#F2A900"
+        android:pathData="M60,78 L60,83 L65,83 L65,86 L68,86 L68,78 Z" />
+</vector>
